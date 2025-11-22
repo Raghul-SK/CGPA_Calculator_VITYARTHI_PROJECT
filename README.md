@@ -41,5 +41,6 @@ Instructions to test :
 <img width="1919" height="905" alt="Screenshot 2025-11-21 101247" src="https://github.com/user-attachments/assets/eb25e0e4-0981-48c5-8d57-97f0e66961dc" />
 
 Conclusion :
+
 This project is designed to help the students of VIT to calculate their Grades, GPA and CGPA to track their progress in their academic journey, hereby I conclude that this project was completed created by what I have learnt in this course and it doesn't contain any LLM's content. This project has helped me gain practical knowledge, I have learnt to apply my theoretical knowledge of pythom programming language to solve the real world problems.
    
