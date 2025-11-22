@@ -15,6 +15,7 @@ Scope of the project :
    The system shall be avaliable anywhere and anytime for the user to calculate their GPA and CGPA.
 
 Target Audience : Students, Teachers and Administrators who need to calculate the GPA and CGPA.
+
 High level features :
 1. Relative grading : The system uses the relative grading system that is the marks are mapped to its respective grade according to their class average and standard deviation
 2. Multiple semester support : The user can either stop with the calculation of first semester's GPA or continue till the very last semester's GPA and CGPA.
